@@ -42,8 +42,6 @@
 
 ## 📷 Screenshots
 
-_Replace these links with your own:_
-
 
 ![Autoclicker Interface](https://www.opautoclicker.com/images/OP-Auto-Clicker.jpg)  
 *Safe auto-click helper for watering & harvesting*
